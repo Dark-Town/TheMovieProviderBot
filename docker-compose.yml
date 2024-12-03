@@ -3,10 +3,10 @@ services:
    worker:
     build: .
     environment:
-      BOT_TOKEN: $BOT_TOKEN
-      API_ID: $API_ID
-      API_HASH: $API_HASH
-      CHANNELS: $CHANNELS
+      BOT_TOKEN:7690393317:AAHswRqO9uIwuZZr2uzd3_4yNfHDTtKV-0M
+      API_ID:24413166
+      API_HASH: $7d43dfedf3baa98292adb7b3f69cd6bd
+      CHANNELS: $tcronebhackx
       ADMINS: $ADMINS
       LOG_CHANNEL: $LOG_CHANNEL
       DATABASE_NAME: $DATABASE_NAME
